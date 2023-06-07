@@ -137,8 +137,10 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ```
 ## Output:
 ### client output
+![image](https://github.com/kaviya2839/cover-page-design/assets/120553351/00899354-79d8-43b2-90c9-7c5f71252113)
 
 ### server output
+![image](https://github.com/kaviya2839/cover-page-design/assets/120553351/ad951b4e-b5e4-4cf6-be96-33ba5aa48375)
 
 ## Result:
 Thus the code has been executed successfully.
